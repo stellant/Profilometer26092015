@@ -1,0 +1,245 @@
+Size Limit Monitor Started...   at 20150925123657670Tz20150925123657670Tz-7
+
+Size Limit Monitor Started...   at 20150925123959809Tz20150925124003678Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\output_20150925141934051Tz-7.csv   at 20150925142148141Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\output_20150925141934051Tz-7.csv   at 20150925142228848Tz-7
+
+Date Time Monitor Started...   at 20150925145501105Tz-7
+
+Size Limit Monitor Started...   at 20150925145501110Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\out_20150925145452940Tz-7.csv   at 20150925145543491Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\out_20150925145452940Tz-7.csv   at 20150925145701138Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925181528939Tz-7.csv   at 20150925181528944Tz-7
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Profilometer_Keyence.Form1.WriteData(MeasureData measureData, List`1 profileData, String date) in C:\Users\wiprovpn\Desktop\Profilometer_Keyence\Profilometer_Keyence\Form1.cs:line 473
+   at Profilometer_Keyence.Form1.timer_Tick(Object sender, EventArgs e) in C:\Users\wiprovpn\Desktop\Profilometer_Keyence\Profilometer_Keyence\Form1.cs:line 586
+   at 20150925181633919Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925182045288Tz-7.csv   at 20150925182105944Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925182933756Tz-7.csv   at 20150925183053548Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925184010671Tz-7.csv   at 20150925184019272Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\out_20150925184434481Tz-7.csv   at 20150925184434485Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925184829538Tz-7.csv   at 20150925184829545Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925185025910Tz-7.csv   at 20150925185025915Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925185111541Tz-7.csv   at 20150925185111546Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925185428004Tz-7.csv   at 20150925185428010Tz-7
+
+System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Profilometer_Keyence.Form1.WriteData(MeasureData measureData, List`1 profileData, String date)
+   at Profilometer_Keyence.Form1.timer_Tick(Object sender, EventArgs e)
+   at 20150925185843486Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925185914577Tz-7.csv   at 20150925185914582Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925190153789Tz-7.csv   at 20150925190153790Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925190422956Tz-7.csv   at 20150925190422961Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925190425634Tz-7.csv   at 20150925190425635Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925190428429Tz-7.csv   at 20150925190428431Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925190430582Tz-7.csv   at 20150925190430583Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925190431756Tz-7.csv   at 20150925190431757Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925190432700Tz-7.csv   at 20150925190432709Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925191001945Tz-7.csv   at 20150925191001951Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925191705672Tz-7.csv   at 20150925191705676Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925191837913Tz-7.csv   at 20150925191837913Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925191844394Tz-7.csv   at 20150925191844397Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925192017968Tz-7.csv   at 20150925192017969Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925192019627Tz-7.csv   at 20150925192019630Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925192020687Tz-7.csv   at 20150925192020688Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925192434742Tz-7.csv   at 20150925192434746Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925192438799Tz-7.csv   at 20150925192438801Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925192521787Tz-7.csv   at 20150925192521789Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925192523644Tz-7.csv   at 20150925192523646Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925192541723Tz-7.csv   at 20150925192541724Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925192543621Tz-7.csv   at 20150925192543625Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925192545465Tz-7.csv   at 20150925192545466Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\output_20150925192547119Tz-7.csv   at 20150925192547121Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192737590Tz-7.csv   at 20150925192737596Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192738086Tz-7.csv   at 20150925192738088Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192738604Tz-7.csv   at 20150925192738691Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192739105Tz-7.csv   at 20150925192739107Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192739643Tz-7.csv   at 20150925192739645Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192740120Tz-7.csv   at 20150925192740122Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192740661Tz-7.csv   at 20150925192740663Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192741138Tz-7.csv   at 20150925192741143Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192741649Tz-7.csv   at 20150925192741651Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192742168Tz-7.csv   at 20150925192742169Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192742664Tz-7.csv   at 20150925192742666Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192743169Tz-7.csv   at 20150925192743173Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192743679Tz-7.csv   at 20150925192743681Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192744201Tz-7.csv   at 20150925192744203Tz-7
+
+Date Time Monitor Started...   at 20150925192802659Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192744201Tz-7.csv   at 20150925192802663Tz-7
+
+Size Limit Monitor Started...   at 20150925192802664Tz-7
+
+Date Time Monitor Started...   at 20150925192905700Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925192744201Tz-7.csv   at 20150925192905703Tz-7
+
+Size Limit Monitor Started...   at 20150925192905704Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\individual_20150925193009660Tz-7.csv   at 20150925193009663Tz-7
+
+Date Time Monitor Started...   at 20150925193052205Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\combined_20150925193043899Tz-7.csv   at 20150925193052212Tz-7
+
+Size Limit Monitor Started...   at 20150925193052212Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\combined_20150925193204316Tz-7.csv   at 20150925193204316Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\combined_20150925193316380Tz-7.csv   at 20150925193316382Tz-7
+
+Date Time Monitor Started...   at 20150925193328565Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\combined_20150925193316380Tz-7.csv   at 20150925193328567Tz-7
+
+Size Limit Monitor Started...   at 20150925193328568Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\Outputs\combined_20150925193343876Tz-7.csv   at 20150925193343878Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\output_20150925210956025Tz-7.csv   at 20150925210956039Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\output_20150925210956447Tz-7.csv   at 20150925210956450Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\output_20150925210956963Tz-7.csv   at 20150925210956965Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\output_20150925210957477Tz-7.csv   at 20150925210957480Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\output_20150925210957980Tz-7.csv   at 20150925210957983Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\output_20150925210958493Tz-7.csv   at 20150925210958495Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\output_20150925210958998Tz-7.csv   at 20150925210959001Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\output_20150925210959507Tz-7.csv   at 20150925210959509Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\output_20150925211000008Tz-7.csv   at 20150925211000010Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925211451620Tz-7.csv   at 20150925211451624Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925211501311Tz-7.csv   at 20150925211501313Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925211605866Tz-7.csv   at 20150925211605867Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212041526Tz-7.csv   at 20150925212041532Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212042013Tz-7.csv   at 20150925212042016Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212042521Tz-7.csv   at 20150925212042524Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212043022Tz-7.csv   at 20150925212043026Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212043536Tz-7.csv   at 20150925212043539Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212044044Tz-7.csv   at 20150925212044048Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212044550Tz-7.csv   at 20150925212044552Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212045054Tz-7.csv   at 20150925212045056Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212045565Tz-7.csv   at 20150925212045568Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212046063Tz-7.csv   at 20150925212046064Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212046578Tz-7.csv   at 20150925212046579Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212047082Tz-7.csv   at 20150925212047083Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\individual_20150925212047594Tz-7.csv   at 20150925212047598Tz-7
+
+Date Time Monitor Started...   at 20150925212516730Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\combined_20150925212505968Tz-7.csv   at 20150925212516735Tz-7
+
+Size Limit Monitor Started...   at 20150925212516735Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\combined_20150925212727706Tz-7.csv   at 20150925212727706Tz-7
+
+Date Time Monitor Started...   at 20150925213616970Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\combined_20150925213610822Tz-7.csv   at 20150925213616973Tz-7
+
+Size Limit Monitor Started...   at 20150925213616973Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\combined_20150925213839925Tz-7.csv   at 20150925213848715Tz-7
+
+Date Time Monitor Started...   at 20150925213926102Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\combined_20150925213839925Tz-7.csv   at 20150925213926104Tz-7
+
+Date Time Monitor Started...   at 20150925213949060Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\combined_20150925213839925Tz-7.csv   at 20150925213949063Tz-7
+
+Size Limit Monitor Started...   at 20150925213949064Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\combined_20150925214019549Tz-7.csv   at 20150925214019559Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\combined_20150925214124544Tz-7.csv   at 20150925214124552Tz-7
+
+Date Time Monitor Started...   at 20150925214506258Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\combinedwithdatetimelimit_20150925214500234Tz-7.csv   at 20150925214506264Tz-7
+
+Size Limit Monitor Started...   at 20150925214506265Tz-7
+
+Date Time Monitor Started...   at 20150925214622215Tz-7
+
+Date will be written to C:\Users\wiprovpn\Desktop\LJV\Output\combinedwithdatetimelimit_20150925214615787Tz-7.csv   at 20150925214622218Tz-7
+
+Size Limit Monitor Started...   at 20150925214622218Tz-7
+
